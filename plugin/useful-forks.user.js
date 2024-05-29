@@ -3,10 +3,13 @@
 // @namespace    Violentmonkey Scripts
 // @version      1.0
 // @author       bethro
+// @license MI
 // @icon         https://useful-forks.github.io/assets/useful-forks-logo.png
 // @description  Adds a button to GitHub repositories to see useful forks of the repo.
+// @homepage     https://github.com/bethropolis/useful-forks
 // @homepageURL  https://github.com/bethropolis/useful-forks
 // @supportURL   https://github.com/bethropolis/useful-forks/issues
+// @downloadURL  https://raw.githubusercontent.com/bethropolis/useful-forks/master/plugin/useful-forks.user.js
 // @match        https://github.com/*/*
 // @grant        none
 // ==/UserScript==
